@@ -13,6 +13,7 @@
 
 - [全屏HTML 5适配](https://juejin.im/post/5c78c9f96fb9a04a0a5fe2b6)
 - [DOM 和 Canvas 如何实现文字竖向排列的效果](https://juejin.im/post/5c7cc99cf265da2dc84985db)
+- [使用双缓存解决 Canvas clearRect 引起的闪屏问题](https://juejin.im/post/5cc5637fe51d456e7079f2aa)
 
 ## Krpano 全景笔记
 
