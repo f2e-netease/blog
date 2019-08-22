@@ -25,3 +25,4 @@
 ## WebGL 应用
 - [WebGL 手撸3d贺卡+小草飘动滤镜](https://juejin.im/post/5cc2ef0ef265da0379417f8f)
 - [webGL: 曲师师AR项目总结](https://juejin.im/post/5d52616cf265da03c8151638)
+- [WebGL：粒子化图片](https://juejin.im/post/5d5ca6bcf265da03f47c245d)
